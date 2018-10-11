@@ -1,0 +1,35 @@
+.social{
+    margin-bottom: 0px;
+    position: fixed;
+   bottom:  0;
+   display:flex;
+   justify-content: space-between;
+  padding-left: 0;
+   padding-right: 0;
+   align-items:center ;
+}
+.presentation{
+    background: url("https://www.studyrama.com/IMG/arton1086.jpg");
+    height:250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contenu{
+    border:1px solid black;
+    height:70%;
+    text-align: center;
+}
+.newsletter{
+    text-align: center;
+    background-color: azure;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.changer{
+    display: flex;
+    justify-content:space-between;
+}
